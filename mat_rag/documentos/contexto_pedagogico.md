@@ -1,8 +1,6 @@
 # CRITÉRIOS DE ANÁLISE PARA RESOLUÇÃO DE PROBLEMAS MATEMÁTICOS
 
-Caracterização das Atividades de Matemática para Análise de Dados com Foco no Pensamento Computacional
-
-As atividades de matemática elaboradas para análise de dados no âmbito da Manguetech serão intencionalmente estruturadas para evidenciar e estimular o desenvolvimento do pensamento computacional nos estudantes. Inspiradas na abordagem pedagógica que preconiza a resolução de problemas em etapas sequenciais – Compreensão, Estratégias, Cálculos/Técnicas e Resposta – cada atividade será cuidadosamente desenhada para permitir a coleta de dados que reflitam a aplicação das habilidades do pensamento computacional em cada uma dessas fases.
+Caracterização das Atividades de Matemática
 
 ---
 
