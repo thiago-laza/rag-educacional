@@ -125,7 +125,7 @@ Um feedback eficaz e personalizado requer que o professor tenha em mente **crit�
 
 1.  **Contexto Pedagógico (Os "Documentos de Conhecimento"):**
 
-      * Cada chatbot é alimentado com um **documento de contexto pedagógico detalhado** (como os que você forneceu para Matemática e Língua Portuguesa). Estes documentos contêm:
+      * Cada chatbot é alimentado com um **documento de contexto pedagógico detalhado** . Estes documentos contêm:
           * **Critérios de Análise:** Descrições claras das habilidades esperadas dos estudantes (e.g., etapas de compreensão, estratégia, cálculo/análise).
           * **Níveis de Classificação:** Escalas que permitem ao professor categorizar o desempenho do estudante (e.g., Iniciante, Básico, Intermediário, Avançado), com descrições específicas para cada nível em relação aos critérios.
           * **Exemplos de Problemas e Respostas Esperadas:** Para um baseline de comparação.
