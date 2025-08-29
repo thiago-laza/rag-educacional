@@ -1,0 +1,1001 @@
+aluno_id,nome_aluno,questao_id,resposta_aluno
+ALUNO_7_1,Estudante 1,Q1,Achei que era um problema de divisão.
+ALUNO_7_1,Estudante 1,Q2,"Para encontrar o total arrecadado, somei as doações dos dois bairros: 875 kg+1.120 kg=1.995 kg. Foram arrecadados 1.995 kg de alimentos."
+ALUNO_7_1,Estudante 1,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_1,Estudante 1,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_1,Estudante 1,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_1,Estudante 1,Q6,"Para encontrar a distância total percorrida, somei a distância de cada dia: 7.500 metros+6.800 metros=14.300 metros. O atleta percorreu 14.300 metros no total."
+ALUNO_7_1,Estudante 1,Q7,"Eu somei, mas o resultado deu 123."
+ALUNO_7_1,Estudante 1,Q8,Achei que era um problema de divisão.
+ALUNO_7_1,Estudante 1,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_1,Estudante 1,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_1,Estudante 1,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_1,Estudante 1,Q12,"Eu somei, mas o resultado deu 123."
+ALUNO_7_1,Estudante 1,Q13,"Para saber o total de frutas, somei a quantidade de cada tipo de fruta: 7+5+3=15. Há 15 frutas no total na fruteira."
+ALUNO_7_1,Estudante 1,Q14,"Para saber com quantos peixes Ana ficou, somei os peixes que ela já tinha com os que comprou: 18+7=25. Ana ficou com 25 peixes."
+ALUNO_7_1,Estudante 1,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_1,Estudante 1,Q16,"Eu somei, mas o resultado deu 123."
+ALUNO_7_1,Estudante 1,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_1,Estudante 1,Q18,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_1,Estudante 1,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_1,Estudante 1,Q20,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_2,Estudante 2,Q1,"Eu somei, mas o resultado deu 123."
+ALUNO_7_2,Estudante 2,Q2,"Para encontrar o total arrecadado, somei as doações dos dois bairros: 875 kg+1.120 kg=1.995 kg. Foram arrecadados 1.995 kg de alimentos."
+ALUNO_7_2,Estudante 2,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_2,Estudante 2,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_2,Estudante 2,Q5,"Eu somei, mas o resultado deu 123."
+ALUNO_7_2,Estudante 2,Q6,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_2,Estudante 2,Q7,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_2,Estudante 2,Q8,"Para saber o total de material reciclável recolhido, somei as quantidades de cada material: 2.100 kg+1.550 kg+890 kg=4.540 kg. Foram recolhidos 4.540 kg de material reciclável no total."
+ALUNO_7_2,Estudante 2,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_2,Estudante 2,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_2,Estudante 2,Q11,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_2,Estudante 2,Q12,"Para determinar a população total da Paraíba, somei o número de homens e mulheres: 1.546.042+1.654.578=3.200.620. A população da Paraíba, segundo esse censo, é de 3.200.620 habitantes."
+ALUNO_7_2,Estudante 2,Q13,"Para saber o total de frutas, somei a quantidade de cada tipo de fruta: 7+5+3=15. Há 15 frutas no total na fruteira."
+ALUNO_7_2,Estudante 2,Q14,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_2,Estudante 2,Q15,Não respondeu.
+ALUNO_7_2,Estudante 2,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_2,Estudante 2,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_2,Estudante 2,Q18,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_2,Estudante 2,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_2,Estudante 2,Q20,"Em uma fazenda, há 120 galinhas e 85 patos. Quantas aves há ao todo na fazenda?"
+ALUNO_7_3,Estudante 3,Q1,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_3,Estudante 3,Q2,"Para encontrar o total arrecadado, somei as doações dos dois bairros: 875 kg+1.120 kg=1.995 kg. Foram arrecadados 1.995 kg de alimentos."
+ALUNO_7_3,Estudante 3,Q3,Achei que era um problema de divisão.
+ALUNO_7_3,Estudante 3,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_3,Estudante 3,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_3,Estudante 3,Q6,Achei que era um problema de divisão.
+ALUNO_7_3,Estudante 3,Q7,"Para calcular a produção total, somei as peças produzidas em janeiro e fevereiro: 15.670+18.905=34.575. A produção total da empresa nesses dois meses foi de 34.575 peças."
+ALUNO_7_3,Estudante 3,Q8,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_3,Estudante 3,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_3,Estudante 3,Q10,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_3,Estudante 3,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_3,Estudante 3,Q12,"Para determinar a população total da Paraíba, somei o número de homens e mulheres: 1.546.042+1.654.578=3.200.620. A população da Paraíba, segundo esse censo, é de 3.200.620 habitantes."
+ALUNO_7_3,Estudante 3,Q13,"Eu somei, mas o resultado deu 123."
+ALUNO_7_3,Estudante 3,Q14,"Para saber com quantos peixes Ana ficou, somei os peixes que ela já tinha com os que comprou: 18+7=25. Ana ficou com 25 peixes."
+ALUNO_7_3,Estudante 3,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_3,Estudante 3,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_3,Estudante 3,Q17,Não respondeu.
+ALUNO_7_3,Estudante 3,Q18,"Em um estacionamento, há 15 carros brancos, 10 carros pretos e 5 carros vermelhos. Quantos carros há no total?"
+ALUNO_7_3,Estudante 3,Q19,"Eu somei, mas o resultado deu 123."
+ALUNO_7_3,Estudante 3,Q20,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_4,Estudante 4,Q1,"Para saber o total, eu somei os livros dos dois dias: 273+319=592. A biblioteca recebeu um total de 592 livros."
+ALUNO_7_4,Estudante 4,Q2,"Para encontrar o total arrecadado, somei as doações dos dois bairros: 875 kg+1.120 kg=1.995 kg. Foram arrecadados 1.995 kg de alimentos."
+ALUNO_7_4,Estudante 4,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_4,Estudante 4,Q4,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_4,Estudante 4,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_4,Estudante 4,Q6,"Para encontrar a distância total percorrida, somei a distância de cada dia: 7.500 metros+6.800 metros=14.300 metros. O atleta percorreu 14.300 metros no total."
+ALUNO_7_4,Estudante 4,Q7,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_4,Estudante 4,Q8,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_4,Estudante 4,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_4,Estudante 4,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_4,Estudante 4,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_4,Estudante 4,Q12,"Para determinar a população total da Paraíba, somei o número de homens e mulheres: 1.546.042+1.654.578=3.200.620. A população da Paraíba, segundo esse censo, é de 3.200.620 habitantes."
+ALUNO_7_4,Estudante 4,Q13,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_4,Estudante 4,Q14,Achei que era um problema de divisão.
+ALUNO_7_4,Estudante 4,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_4,Estudante 4,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_4,Estudante 4,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_4,Estudante 4,Q18,"Em um estacionamento, há 15 carros brancos, 10 carros pretos e 5 carros vermelhos. Quantos carros há no total?"
+ALUNO_7_4,Estudante 4,Q19,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_4,Estudante 4,Q20,"Em uma fazenda, há 120 galinhas e 85 patos. Quantas aves há ao todo na fazenda?"
+ALUNO_7_5,Estudante 5,Q1,"Para saber o total, eu somei os livros dos dois dias: 273+319=592. A biblioteca recebeu um total de 592 livros."
+ALUNO_7_5,Estudante 5,Q2,"Para encontrar o total arrecadado, somei as doações dos dois bairros: 875 kg+1.120 kg=1.995 kg. Foram arrecadados 1.995 kg de alimentos."
+ALUNO_7_5,Estudante 5,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_5,Estudante 5,Q4,Achei que era um problema de divisão.
+ALUNO_7_5,Estudante 5,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_5,Estudante 5,Q6,"Para encontrar a distância total percorrida, somei a distância de cada dia: 7.500 metros+6.800 metros=14.300 metros. O atleta percorreu 14.300 metros no total."
+ALUNO_7_5,Estudante 5,Q7,"Para calcular a produção total, somei as peças produzidas em janeiro e fevereiro: 15.670+18.905=34.575. A produção total da empresa nesses dois meses foi de 34.575 peças."
+ALUNO_7_5,Estudante 5,Q8,"Eu somei, mas o resultado deu 123."
+ALUNO_7_5,Estudante 5,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_5,Estudante 5,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_5,Estudante 5,Q11,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_5,Estudante 5,Q12,"Para determinar a população total da Paraíba, somei o número de homens e mulheres: 1.546.042+1.654.578=3.200.620. A população da Paraíba, segundo esse censo, é de 3.200.620 habitantes."
+ALUNO_7_5,Estudante 5,Q13,"Para saber o total de frutas, somei a quantidade de cada tipo de fruta: 7+5+3=15. Há 15 frutas no total na fruteira."
+ALUNO_7_5,Estudante 5,Q14,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_5,Estudante 5,Q15,Não respondeu.
+ALUNO_7_5,Estudante 5,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_5,Estudante 5,Q17,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_5,Estudante 5,Q18,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_5,Estudante 5,Q19,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_5,Estudante 5,Q20,"Em uma fazenda, há 120 galinhas e 85 patos. Quantas aves há ao todo na fazenda?"
+ALUNO_7_6,Estudante 6,Q1,"Para saber o total, eu somei os livros dos dois dias: 273+319=592. A biblioteca recebeu um total de 592 livros."
+ALUNO_7_6,Estudante 6,Q2,"Para encontrar o total arrecadado, somei as doações dos dois bairros: 875 kg+1.120 kg=1.995 kg. Foram arrecadados 1.995 kg de alimentos."
+ALUNO_7_6,Estudante 6,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_6,Estudante 6,Q4,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_6,Estudante 6,Q5,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_6,Estudante 6,Q6,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_6,Estudante 6,Q7,"Para calcular a produção total, somei as peças produzidas em janeiro e fevereiro: 15.670+18.905=34.575. A produção total da empresa nesses dois meses foi de 34.575 peças."
+ALUNO_7_6,Estudante 6,Q8,Achei que era um problema de divisão.
+ALUNO_7_6,Estudante 6,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_6,Estudante 6,Q10,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_6,Estudante 6,Q11,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_6,Estudante 6,Q12,"Para determinar a população total da Paraíba, somei o número de homens e mulheres: 1.546.042+1.654.578=3.200.620. A população da Paraíba, segundo esse censo, é de 3.200.620 habitantes."
+ALUNO_7_6,Estudante 6,Q13,"Para saber o total de frutas, somei a quantidade de cada tipo de fruta: 7+5+3=15. Há 15 frutas no total na fruteira."
+ALUNO_7_6,Estudante 6,Q14,"Para saber com quantos peixes Ana ficou, somei os peixes que ela já tinha com os que comprou: 18+7=25. Ana ficou com 25 peixes."
+ALUNO_7_6,Estudante 6,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_6,Estudante 6,Q16,"Eu somei, mas o resultado deu 123."
+ALUNO_7_6,Estudante 6,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_6,Estudante 6,Q18,"Em um estacionamento, há 15 carros brancos, 10 carros pretos e 5 carros vermelhos. Quantos carros há no total?"
+ALUNO_7_6,Estudante 6,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_6,Estudante 6,Q20,"Em uma fazenda, há 120 galinhas e 85 patos. Quantas aves há ao todo na fazenda?"
+ALUNO_7_7,Estudante 7,Q1,"Eu somei, mas o resultado deu 123."
+ALUNO_7_7,Estudante 7,Q2,"Eu somei, mas o resultado deu 123."
+ALUNO_7_7,Estudante 7,Q3,"Eu somei, mas o resultado deu 123."
+ALUNO_7_7,Estudante 7,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_7,Estudante 7,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_7,Estudante 7,Q6,"Para encontrar a distância total percorrida, somei a distância de cada dia: 7.500 metros+6.800 metros=14.300 metros. O atleta percorreu 14.300 metros no total."
+ALUNO_7_7,Estudante 7,Q7,"Para calcular a produção total, somei as peças produzidas em janeiro e fevereiro: 15.670+18.905=34.575. A produção total da empresa nesses dois meses foi de 34.575 peças."
+ALUNO_7_7,Estudante 7,Q8,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_7,Estudante 7,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_7,Estudante 7,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_7,Estudante 7,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_7,Estudante 7,Q12,"Para determinar a população total da Paraíba, somei o número de homens e mulheres: 1.546.042+1.654.578=3.200.620. A população da Paraíba, segundo esse censo, é de 3.200.620 habitantes."
+ALUNO_7_7,Estudante 7,Q13,"Para saber o total de frutas, somei a quantidade de cada tipo de fruta: 7+5+3=15. Há 15 frutas no total na fruteira."
+ALUNO_7_7,Estudante 7,Q14,"Para saber com quantos peixes Ana ficou, somei os peixes que ela já tinha com os que comprou: 18+7=25. Ana ficou com 25 peixes."
+ALUNO_7_7,Estudante 7,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_7,Estudante 7,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_7,Estudante 7,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_7,Estudante 7,Q18,"Em um estacionamento, há 15 carros brancos, 10 carros pretos e 5 carros vermelhos. Quantos carros há no total?"
+ALUNO_7_7,Estudante 7,Q19,Não respondeu.
+ALUNO_7_7,Estudante 7,Q20,"Em uma fazenda, há 120 galinhas e 85 patos. Quantas aves há ao todo na fazenda?"
+ALUNO_7_8,Estudante 8,Q1,Achei que era um problema de divisão.
+ALUNO_7_8,Estudante 8,Q2,"Para encontrar o total arrecadado, somei as doações dos dois bairros: 875 kg+1.120 kg=1.995 kg. Foram arrecadados 1.995 kg de alimentos."
+ALUNO_7_8,Estudante 8,Q3,Não respondeu.
+ALUNO_7_8,Estudante 8,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_8,Estudante 8,Q5,Achei que era um problema de divisão.
+ALUNO_7_8,Estudante 8,Q6,"Eu somei, mas o resultado deu 123."
+ALUNO_7_8,Estudante 8,Q7,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_8,Estudante 8,Q8,"Para saber o total de material reciclável recolhido, somei as quantidades de cada material: 2.100 kg+1.550 kg+890 kg=4.540 kg. Foram recolhidos 4.540 kg de material reciclável no total."
+ALUNO_7_8,Estudante 8,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_8,Estudante 8,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_8,Estudante 8,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_8,Estudante 8,Q12,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_8,Estudante 8,Q13,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_8,Estudante 8,Q14,"Para saber com quantos peixes Ana ficou, somei os peixes que ela já tinha com os que comprou: 18+7=25. Ana ficou com 25 peixes."
+ALUNO_7_8,Estudante 8,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_8,Estudante 8,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_8,Estudante 8,Q17,Não respondeu.
+ALUNO_7_8,Estudante 8,Q18,"Em um estacionamento, há 15 carros brancos, 10 carros pretos e 5 carros vermelhos. Quantos carros há no total?"
+ALUNO_7_8,Estudante 8,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_8,Estudante 8,Q20,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_9,Estudante 9,Q1,"Eu somei, mas o resultado deu 123."
+ALUNO_7_9,Estudante 9,Q2,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_9,Estudante 9,Q3,Não respondeu.
+ALUNO_7_9,Estudante 9,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_9,Estudante 9,Q5,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_9,Estudante 9,Q6,"Para encontrar a distância total percorrida, somei a distância de cada dia: 7.500 metros+6.800 metros=14.300 metros. O atleta percorreu 14.300 metros no total."
+ALUNO_7_9,Estudante 9,Q7,"Para calcular a produção total, somei as peças produzidas em janeiro e fevereiro: 15.670+18.905=34.575. A produção total da empresa nesses dois meses foi de 34.575 peças."
+ALUNO_7_9,Estudante 9,Q8,"Para saber o total de material reciclável recolhido, somei as quantidades de cada material: 2.100 kg+1.550 kg+890 kg=4.540 kg. Foram recolhidos 4.540 kg de material reciclável no total."
+ALUNO_7_9,Estudante 9,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_9,Estudante 9,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_9,Estudante 9,Q11,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_9,Estudante 9,Q12,Não respondeu.
+ALUNO_7_9,Estudante 9,Q13,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_9,Estudante 9,Q14,"Eu somei, mas o resultado deu 123."
+ALUNO_7_9,Estudante 9,Q15,Achei que era um problema de divisão.
+ALUNO_7_9,Estudante 9,Q16,Não respondeu.
+ALUNO_7_9,Estudante 9,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_9,Estudante 9,Q18,"Em um estacionamento, há 15 carros brancos, 10 carros pretos e 5 carros vermelhos. Quantos carros há no total?"
+ALUNO_7_9,Estudante 9,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_9,Estudante 9,Q20,"Em uma fazenda, há 120 galinhas e 85 patos. Quantas aves há ao todo na fazenda?"
+ALUNO_7_10,Estudante 10,Q1,"Para saber o total, eu somei os livros dos dois dias: 273+319=592. A biblioteca recebeu um total de 592 livros."
+ALUNO_7_10,Estudante 10,Q2,"Para encontrar o total arrecadado, somei as doações dos dois bairros: 875 kg+1.120 kg=1.995 kg. Foram arrecadados 1.995 kg de alimentos."
+ALUNO_7_10,Estudante 10,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_10,Estudante 10,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_10,Estudante 10,Q5,"Eu somei, mas o resultado deu 123."
+ALUNO_7_10,Estudante 10,Q6,"Para encontrar a distância total percorrida, somei a distância de cada dia: 7.500 metros+6.800 metros=14.300 metros. O atleta percorreu 14.300 metros no total."
+ALUNO_7_10,Estudante 10,Q7,"Para calcular a produção total, somei as peças produzidas em janeiro e fevereiro: 15.670+18.905=34.575. A produção total da empresa nesses dois meses foi de 34.575 peças."
+ALUNO_7_10,Estudante 10,Q8,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_10,Estudante 10,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_10,Estudante 10,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_10,Estudante 10,Q11,Não respondeu.
+ALUNO_7_10,Estudante 10,Q12,"Para determinar a população total da Paraíba, somei o número de homens e mulheres: 1.546.042+1.654.578=3.200.620. A população da Paraíba, segundo esse censo, é de 3.200.620 habitantes."
+ALUNO_7_10,Estudante 10,Q13,"Para saber o total de frutas, somei a quantidade de cada tipo de fruta: 7+5+3=15. Há 15 frutas no total na fruteira."
+ALUNO_7_10,Estudante 10,Q14,"Para saber com quantos peixes Ana ficou, somei os peixes que ela já tinha com os que comprou: 18+7=25. Ana ficou com 25 peixes."
+ALUNO_7_10,Estudante 10,Q15,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_10,Estudante 10,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_10,Estudante 10,Q17,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_10,Estudante 10,Q18,"Em um estacionamento, há 15 carros brancos, 10 carros pretos e 5 carros vermelhos. Quantos carros há no total?"
+ALUNO_7_10,Estudante 10,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_10,Estudante 10,Q20,"Em uma fazenda, há 120 galinhas e 85 patos. Quantas aves há ao todo na fazenda?"
+ALUNO_7_11,Estudante 11,Q1,"Para saber o total, eu somei os livros dos dois dias: 273+319=592. A biblioteca recebeu um total de 592 livros."
+ALUNO_7_11,Estudante 11,Q2,"Para encontrar o total arrecadado, somei as doações dos dois bairros: 875 kg+1.120 kg=1.995 kg. Foram arrecadados 1.995 kg de alimentos."
+ALUNO_7_11,Estudante 11,Q3,Não respondeu.
+ALUNO_7_11,Estudante 11,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_11,Estudante 11,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_11,Estudante 11,Q6,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_11,Estudante 11,Q7,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_11,Estudante 11,Q8,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_11,Estudante 11,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_11,Estudante 11,Q10,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_11,Estudante 11,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_11,Estudante 11,Q12,"Para determinar a população total da Paraíba, somei o número de homens e mulheres: 1.546.042+1.654.578=3.200.620. A população da Paraíba, segundo esse censo, é de 3.200.620 habitantes."
+ALUNO_7_11,Estudante 11,Q13,"Para saber o total de frutas, somei a quantidade de cada tipo de fruta: 7+5+3=15. Há 15 frutas no total na fruteira."
+ALUNO_7_11,Estudante 11,Q14,"Para saber com quantos peixes Ana ficou, somei os peixes que ela já tinha com os que comprou: 18+7=25. Ana ficou com 25 peixes."
+ALUNO_7_11,Estudante 11,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_11,Estudante 11,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_11,Estudante 11,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_11,Estudante 11,Q18,"Em um estacionamento, há 15 carros brancos, 10 carros pretos e 5 carros vermelhos. Quantos carros há no total?"
+ALUNO_7_11,Estudante 11,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_11,Estudante 11,Q20,"Eu somei, mas o resultado deu 123."
+ALUNO_7_12,Estudante 12,Q1,"Para saber o total, eu somei os livros dos dois dias: 273+319=592. A biblioteca recebeu um total de 592 livros."
+ALUNO_7_12,Estudante 12,Q2,"Para encontrar o total arrecadado, somei as doações dos dois bairros: 875 kg+1.120 kg=1.995 kg. Foram arrecadados 1.995 kg de alimentos."
+ALUNO_7_12,Estudante 12,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_12,Estudante 12,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_12,Estudante 12,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_12,Estudante 12,Q6,"Eu somei, mas o resultado deu 123."
+ALUNO_7_12,Estudante 12,Q7,"Para calcular a produção total, somei as peças produzidas em janeiro e fevereiro: 15.670+18.905=34.575. A produção total da empresa nesses dois meses foi de 34.575 peças."
+ALUNO_7_12,Estudante 12,Q8,"Para saber o total de material reciclável recolhido, somei as quantidades de cada material: 2.100 kg+1.550 kg+890 kg=4.540 kg. Foram recolhidos 4.540 kg de material reciclável no total."
+ALUNO_7_12,Estudante 12,Q9,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_12,Estudante 12,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_12,Estudante 12,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_12,Estudante 12,Q12,"Para determinar a população total da Paraíba, somei o número de homens e mulheres: 1.546.042+1.654.578=3.200.620. A população da Paraíba, segundo esse censo, é de 3.200.620 habitantes."
+ALUNO_7_12,Estudante 12,Q13,"Para saber o total de frutas, somei a quantidade de cada tipo de fruta: 7+5+3=15. Há 15 frutas no total na fruteira."
+ALUNO_7_12,Estudante 12,Q14,"Eu somei, mas o resultado deu 123."
+ALUNO_7_12,Estudante 12,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_12,Estudante 12,Q16,"Eu somei, mas o resultado deu 123."
+ALUNO_7_12,Estudante 12,Q17,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_12,Estudante 12,Q18,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_12,Estudante 12,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_12,Estudante 12,Q20,"Em uma fazenda, há 120 galinhas e 85 patos. Quantas aves há ao todo na fazenda?"
+ALUNO_7_13,Estudante 13,Q1,Achei que era um problema de divisão.
+ALUNO_7_13,Estudante 13,Q2,"Para encontrar o total arrecadado, somei as doações dos dois bairros: 875 kg+1.120 kg=1.995 kg. Foram arrecadados 1.995 kg de alimentos."
+ALUNO_7_13,Estudante 13,Q3,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_13,Estudante 13,Q4,"Eu somei, mas o resultado deu 123."
+ALUNO_7_13,Estudante 13,Q5,Achei que era um problema de divisão.
+ALUNO_7_13,Estudante 13,Q6,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_13,Estudante 13,Q7,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_13,Estudante 13,Q8,Não respondeu.
+ALUNO_7_13,Estudante 13,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_13,Estudante 13,Q10,Achei que era um problema de divisão.
+ALUNO_7_13,Estudante 13,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_13,Estudante 13,Q12,"Eu somei, mas o resultado deu 123."
+ALUNO_7_13,Estudante 13,Q13,"Para saber o total de frutas, somei a quantidade de cada tipo de fruta: 7+5+3=15. Há 15 frutas no total na fruteira."
+ALUNO_7_13,Estudante 13,Q14,"Para saber com quantos peixes Ana ficou, somei os peixes que ela já tinha com os que comprou: 18+7=25. Ana ficou com 25 peixes."
+ALUNO_7_13,Estudante 13,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_13,Estudante 13,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_13,Estudante 13,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_13,Estudante 13,Q18,"Em um estacionamento, há 15 carros brancos, 10 carros pretos e 5 carros vermelhos. Quantos carros há no total?"
+ALUNO_7_13,Estudante 13,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_13,Estudante 13,Q20,"Em uma fazenda, há 120 galinhas e 85 patos. Quantas aves há ao todo na fazenda?"
+ALUNO_7_14,Estudante 14,Q1,"Para saber o total, eu somei os livros dos dois dias: 273+319=592. A biblioteca recebeu um total de 592 livros."
+ALUNO_7_14,Estudante 14,Q2,"Eu somei, mas o resultado deu 123."
+ALUNO_7_14,Estudante 14,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_14,Estudante 14,Q4,Achei que era um problema de divisão.
+ALUNO_7_14,Estudante 14,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_14,Estudante 14,Q6,Achei que era um problema de divisão.
+ALUNO_7_14,Estudante 14,Q7,"Para calcular a produção total, somei as peças produzidas em janeiro e fevereiro: 15.670+18.905=34.575. A produção total da empresa nesses dois meses foi de 34.575 peças."
+ALUNO_7_14,Estudante 14,Q8,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_14,Estudante 14,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_14,Estudante 14,Q10,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_14,Estudante 14,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_14,Estudante 14,Q12,"Para determinar a população total da Paraíba, somei o número de homens e mulheres: 1.546.042+1.654.578=3.200.620. A população da Paraíba, segundo esse censo, é de 3.200.620 habitantes."
+ALUNO_7_14,Estudante 14,Q13,"Para saber o total de frutas, somei a quantidade de cada tipo de fruta: 7+5+3=15. Há 15 frutas no total na fruteira."
+ALUNO_7_14,Estudante 14,Q14,Achei que era um problema de divisão.
+ALUNO_7_14,Estudante 14,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_14,Estudante 14,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_14,Estudante 14,Q17,"Eu somei, mas o resultado deu 123."
+ALUNO_7_14,Estudante 14,Q18,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_14,Estudante 14,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_14,Estudante 14,Q20,"Em uma fazenda, há 120 galinhas e 85 patos. Quantas aves há ao todo na fazenda?"
+ALUNO_7_15,Estudante 15,Q1,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_15,Estudante 15,Q2,"Para encontrar o total arrecadado, somei as doações dos dois bairros: 875 kg+1.120 kg=1.995 kg. Foram arrecadados 1.995 kg de alimentos."
+ALUNO_7_15,Estudante 15,Q3,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_15,Estudante 15,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_15,Estudante 15,Q5,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_15,Estudante 15,Q6,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_15,Estudante 15,Q7,"Para calcular a produção total, somei as peças produzidas em janeiro e fevereiro: 15.670+18.905=34.575. A produção total da empresa nesses dois meses foi de 34.575 peças."
+ALUNO_7_15,Estudante 15,Q8,"Para saber o total de material reciclável recolhido, somei as quantidades de cada material: 2.100 kg+1.550 kg+890 kg=4.540 kg. Foram recolhidos 4.540 kg de material reciclável no total."
+ALUNO_7_15,Estudante 15,Q9,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_15,Estudante 15,Q10,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_15,Estudante 15,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_15,Estudante 15,Q12,"Para determinar a população total da Paraíba, somei o número de homens e mulheres: 1.546.042+1.654.578=3.200.620. A população da Paraíba, segundo esse censo, é de 3.200.620 habitantes."
+ALUNO_7_15,Estudante 15,Q13,"Eu somei, mas o resultado deu 123."
+ALUNO_7_15,Estudante 15,Q14,"Para saber com quantos peixes Ana ficou, somei os peixes que ela já tinha com os que comprou: 18+7=25. Ana ficou com 25 peixes."
+ALUNO_7_15,Estudante 15,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_15,Estudante 15,Q16,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_15,Estudante 15,Q17,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_15,Estudante 15,Q18,"Em um estacionamento, há 15 carros brancos, 10 carros pretos e 5 carros vermelhos. Quantos carros há no total?"
+ALUNO_7_15,Estudante 15,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_15,Estudante 15,Q20,"Em uma fazenda, há 120 galinhas e 85 patos. Quantas aves há ao todo na fazenda?"
+ALUNO_7_16,Estudante 16,Q1,"Eu somei, mas o resultado deu 123."
+ALUNO_7_16,Estudante 16,Q2,Não respondeu.
+ALUNO_7_16,Estudante 16,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_16,Estudante 16,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_16,Estudante 16,Q5,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_16,Estudante 16,Q6,"Para encontrar a distância total percorrida, somei a distância de cada dia: 7.500 metros+6.800 metros=14.300 metros. O atleta percorreu 14.300 metros no total."
+ALUNO_7_16,Estudante 16,Q7,"Para calcular a produção total, somei as peças produzidas em janeiro e fevereiro: 15.670+18.905=34.575. A produção total da empresa nesses dois meses foi de 34.575 peças."
+ALUNO_7_16,Estudante 16,Q8,"Para saber o total de material reciclável recolhido, somei as quantidades de cada material: 2.100 kg+1.550 kg+890 kg=4.540 kg. Foram recolhidos 4.540 kg de material reciclável no total."
+ALUNO_7_16,Estudante 16,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_16,Estudante 16,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_16,Estudante 16,Q11,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_16,Estudante 16,Q12,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_16,Estudante 16,Q13,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_16,Estudante 16,Q14,"Para saber com quantos peixes Ana ficou, somei os peixes que ela já tinha com os que comprou: 18+7=25. Ana ficou com 25 peixes."
+ALUNO_7_16,Estudante 16,Q15,"Eu somei, mas o resultado deu 123."
+ALUNO_7_16,Estudante 16,Q16,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_16,Estudante 16,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_16,Estudante 16,Q18,Achei que era um problema de divisão.
+ALUNO_7_16,Estudante 16,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_16,Estudante 16,Q20,"Em uma fazenda, há 120 galinhas e 85 patos. Quantas aves há ao todo na fazenda?"
+ALUNO_7_17,Estudante 17,Q1,"Para saber o total, eu somei os livros dos dois dias: 273+319=592. A biblioteca recebeu um total de 592 livros."
+ALUNO_7_17,Estudante 17,Q2,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_17,Estudante 17,Q3,"Eu somei, mas o resultado deu 123."
+ALUNO_7_17,Estudante 17,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_17,Estudante 17,Q5,"Eu somei, mas o resultado deu 123."
+ALUNO_7_17,Estudante 17,Q6,Não respondeu.
+ALUNO_7_17,Estudante 17,Q7,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_17,Estudante 17,Q8,"Eu somei, mas o resultado deu 123."
+ALUNO_7_17,Estudante 17,Q9,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_17,Estudante 17,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_17,Estudante 17,Q11,Achei que era um problema de divisão.
+ALUNO_7_17,Estudante 17,Q12,"Para determinar a população total da Paraíba, somei o número de homens e mulheres: 1.546.042+1.654.578=3.200.620. A população da Paraíba, segundo esse censo, é de 3.200.620 habitantes."
+ALUNO_7_17,Estudante 17,Q13,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_17,Estudante 17,Q14,"Para saber com quantos peixes Ana ficou, somei os peixes que ela já tinha com os que comprou: 18+7=25. Ana ficou com 25 peixes."
+ALUNO_7_17,Estudante 17,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_17,Estudante 17,Q16,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_17,Estudante 17,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_17,Estudante 17,Q18,"Eu somei, mas o resultado deu 123."
+ALUNO_7_17,Estudante 17,Q19,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_17,Estudante 17,Q20,"Em uma fazenda, há 120 galinhas e 85 patos. Quantas aves há ao todo na fazenda?"
+ALUNO_7_18,Estudante 18,Q1,"Para saber o total, eu somei os livros dos dois dias: 273+319=592. A biblioteca recebeu um total de 592 livros."
+ALUNO_7_18,Estudante 18,Q2,"Para encontrar o total arrecadado, somei as doações dos dois bairros: 875 kg+1.120 kg=1.995 kg. Foram arrecadados 1.995 kg de alimentos."
+ALUNO_7_18,Estudante 18,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_18,Estudante 18,Q4,Achei que era um problema de divisão.
+ALUNO_7_18,Estudante 18,Q5,"Eu somei, mas o resultado deu 123."
+ALUNO_7_18,Estudante 18,Q6,"Para encontrar a distância total percorrida, somei a distância de cada dia: 7.500 metros+6.800 metros=14.300 metros. O atleta percorreu 14.300 metros no total."
+ALUNO_7_18,Estudante 18,Q7,Não respondeu.
+ALUNO_7_18,Estudante 18,Q8,"Para saber o total de material reciclável recolhido, somei as quantidades de cada material: 2.100 kg+1.550 kg+890 kg=4.540 kg. Foram recolhidos 4.540 kg de material reciclável no total."
+ALUNO_7_18,Estudante 18,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_18,Estudante 18,Q10,"Eu somei, mas o resultado deu 123."
+ALUNO_7_18,Estudante 18,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_18,Estudante 18,Q12,"Eu somei, mas o resultado deu 123."
+ALUNO_7_18,Estudante 18,Q13,"Eu somei, mas o resultado deu 123."
+ALUNO_7_18,Estudante 18,Q14,"Para saber com quantos peixes Ana ficou, somei os peixes que ela já tinha com os que comprou: 18+7=25. Ana ficou com 25 peixes."
+ALUNO_7_18,Estudante 18,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_18,Estudante 18,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_18,Estudante 18,Q17,Achei que era um problema de divisão.
+ALUNO_7_18,Estudante 18,Q18,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_18,Estudante 18,Q19,"Eu somei, mas o resultado deu 123."
+ALUNO_7_18,Estudante 18,Q20,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_19,Estudante 19,Q1,"Para saber o total, eu somei os livros dos dois dias: 273+319=592. A biblioteca recebeu um total de 592 livros."
+ALUNO_7_19,Estudante 19,Q2,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_19,Estudante 19,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_19,Estudante 19,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_19,Estudante 19,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_19,Estudante 19,Q6,"Para encontrar a distância total percorrida, somei a distância de cada dia: 7.500 metros+6.800 metros=14.300 metros. O atleta percorreu 14.300 metros no total."
+ALUNO_7_19,Estudante 19,Q7,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_19,Estudante 19,Q8,"Para saber o total de material reciclável recolhido, somei as quantidades de cada material: 2.100 kg+1.550 kg+890 kg=4.540 kg. Foram recolhidos 4.540 kg de material reciclável no total."
+ALUNO_7_19,Estudante 19,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_19,Estudante 19,Q10,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_19,Estudante 19,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_19,Estudante 19,Q12,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_19,Estudante 19,Q13,"Para saber o total de frutas, somei a quantidade de cada tipo de fruta: 7+5+3=15. Há 15 frutas no total na fruteira."
+ALUNO_7_19,Estudante 19,Q14,"Para saber com quantos peixes Ana ficou, somei os peixes que ela já tinha com os que comprou: 18+7=25. Ana ficou com 25 peixes."
+ALUNO_7_19,Estudante 19,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_19,Estudante 19,Q16,Não respondeu.
+ALUNO_7_19,Estudante 19,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_19,Estudante 19,Q18,"Em um estacionamento, há 15 carros brancos, 10 carros pretos e 5 carros vermelhos. Quantos carros há no total?"
+ALUNO_7_19,Estudante 19,Q19,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_19,Estudante 19,Q20,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_20,Estudante 20,Q1,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_20,Estudante 20,Q2,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_20,Estudante 20,Q3,"Eu somei, mas o resultado deu 123."
+ALUNO_7_20,Estudante 20,Q4,"Eu somei, mas o resultado deu 123."
+ALUNO_7_20,Estudante 20,Q5,Não respondeu.
+ALUNO_7_20,Estudante 20,Q6,Não respondeu.
+ALUNO_7_20,Estudante 20,Q7,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_20,Estudante 20,Q8,"Para saber o total de material reciclável recolhido, somei as quantidades de cada material: 2.100 kg+1.550 kg+890 kg=4.540 kg. Foram recolhidos 4.540 kg de material reciclável no total."
+ALUNO_7_20,Estudante 20,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_20,Estudante 20,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_20,Estudante 20,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_20,Estudante 20,Q12,"Para determinar a população total da Paraíba, somei o número de homens e mulheres: 1.546.042+1.654.578=3.200.620. A população da Paraíba, segundo esse censo, é de 3.200.620 habitantes."
+ALUNO_7_20,Estudante 20,Q13,"Para saber o total de frutas, somei a quantidade de cada tipo de fruta: 7+5+3=15. Há 15 frutas no total na fruteira."
+ALUNO_7_20,Estudante 20,Q14,"Para saber com quantos peixes Ana ficou, somei os peixes que ela já tinha com os que comprou: 18+7=25. Ana ficou com 25 peixes."
+ALUNO_7_20,Estudante 20,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_20,Estudante 20,Q16,Achei que era um problema de divisão.
+ALUNO_7_20,Estudante 20,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_20,Estudante 20,Q18,"Em um estacionamento, há 15 carros brancos, 10 carros pretos e 5 carros vermelhos. Quantos carros há no total?"
+ALUNO_7_20,Estudante 20,Q19,"Eu somei, mas o resultado deu 123."
+ALUNO_7_20,Estudante 20,Q20,Achei que era um problema de divisão.
+ALUNO_7_21,Estudante 21,Q1,"Para saber o total, eu somei os livros dos dois dias: 273+319=592. A biblioteca recebeu um total de 592 livros."
+ALUNO_7_21,Estudante 21,Q2,"Eu somei, mas o resultado deu 123."
+ALUNO_7_21,Estudante 21,Q3,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_21,Estudante 21,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_21,Estudante 21,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_21,Estudante 21,Q6,"Para encontrar a distância total percorrida, somei a distância de cada dia: 7.500 metros+6.800 metros=14.300 metros. O atleta percorreu 14.300 metros no total."
+ALUNO_7_21,Estudante 21,Q7,"Para calcular a produção total, somei as peças produzidas em janeiro e fevereiro: 15.670+18.905=34.575. A produção total da empresa nesses dois meses foi de 34.575 peças."
+ALUNO_7_21,Estudante 21,Q8,Achei que era um problema de divisão.
+ALUNO_7_21,Estudante 21,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_21,Estudante 21,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_21,Estudante 21,Q11,"Eu somei, mas o resultado deu 123."
+ALUNO_7_21,Estudante 21,Q12,"Para determinar a população total da Paraíba, somei o número de homens e mulheres: 1.546.042+1.654.578=3.200.620. A população da Paraíba, segundo esse censo, é de 3.200.620 habitantes."
+ALUNO_7_21,Estudante 21,Q13,Não respondeu.
+ALUNO_7_21,Estudante 21,Q14,"Para saber com quantos peixes Ana ficou, somei os peixes que ela já tinha com os que comprou: 18+7=25. Ana ficou com 25 peixes."
+ALUNO_7_21,Estudante 21,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_21,Estudante 21,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_21,Estudante 21,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_21,Estudante 21,Q18,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_21,Estudante 21,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_21,Estudante 21,Q20,"Em uma fazenda, há 120 galinhas e 85 patos. Quantas aves há ao todo na fazenda?"
+ALUNO_7_22,Estudante 22,Q1,"Para saber o total, eu somei os livros dos dois dias: 273+319=592. A biblioteca recebeu um total de 592 livros."
+ALUNO_7_22,Estudante 22,Q2,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_22,Estudante 22,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_22,Estudante 22,Q4,Não respondeu.
+ALUNO_7_22,Estudante 22,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_22,Estudante 22,Q6,"Para encontrar a distância total percorrida, somei a distância de cada dia: 7.500 metros+6.800 metros=14.300 metros. O atleta percorreu 14.300 metros no total."
+ALUNO_7_22,Estudante 22,Q7,Achei que era um problema de divisão.
+ALUNO_7_22,Estudante 22,Q8,"Para saber o total de material reciclável recolhido, somei as quantidades de cada material: 2.100 kg+1.550 kg+890 kg=4.540 kg. Foram recolhidos 4.540 kg de material reciclável no total."
+ALUNO_7_22,Estudante 22,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_22,Estudante 22,Q10,Achei que era um problema de divisão.
+ALUNO_7_22,Estudante 22,Q11,"Eu somei, mas o resultado deu 123."
+ALUNO_7_22,Estudante 22,Q12,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_22,Estudante 22,Q13,"Para saber o total de frutas, somei a quantidade de cada tipo de fruta: 7+5+3=15. Há 15 frutas no total na fruteira."
+ALUNO_7_22,Estudante 22,Q14,"Eu somei, mas o resultado deu 123."
+ALUNO_7_22,Estudante 22,Q15,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_22,Estudante 22,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_22,Estudante 22,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_22,Estudante 22,Q18,"Em um estacionamento, há 15 carros brancos, 10 carros pretos e 5 carros vermelhos. Quantos carros há no total?"
+ALUNO_7_22,Estudante 22,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_22,Estudante 22,Q20,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_23,Estudante 23,Q1,"Para saber o total, eu somei os livros dos dois dias: 273+319=592. A biblioteca recebeu um total de 592 livros."
+ALUNO_7_23,Estudante 23,Q2,"Para encontrar o total arrecadado, somei as doações dos dois bairros: 875 kg+1.120 kg=1.995 kg. Foram arrecadados 1.995 kg de alimentos."
+ALUNO_7_23,Estudante 23,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_23,Estudante 23,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_23,Estudante 23,Q5,Não respondeu.
+ALUNO_7_23,Estudante 23,Q6,"Para encontrar a distância total percorrida, somei a distância de cada dia: 7.500 metros+6.800 metros=14.300 metros. O atleta percorreu 14.300 metros no total."
+ALUNO_7_23,Estudante 23,Q7,"Eu somei, mas o resultado deu 123."
+ALUNO_7_23,Estudante 23,Q8,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_23,Estudante 23,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_23,Estudante 23,Q10,Não respondeu.
+ALUNO_7_23,Estudante 23,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_23,Estudante 23,Q12,"Eu somei, mas o resultado deu 123."
+ALUNO_7_23,Estudante 23,Q13,Achei que era um problema de divisão.
+ALUNO_7_23,Estudante 23,Q14,"Para saber com quantos peixes Ana ficou, somei os peixes que ela já tinha com os que comprou: 18+7=25. Ana ficou com 25 peixes."
+ALUNO_7_23,Estudante 23,Q15,"Eu somei, mas o resultado deu 123."
+ALUNO_7_23,Estudante 23,Q16,"Eu somei, mas o resultado deu 123."
+ALUNO_7_23,Estudante 23,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_23,Estudante 23,Q18,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_23,Estudante 23,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_23,Estudante 23,Q20,"Em uma fazenda, há 120 galinhas e 85 patos. Quantas aves há ao todo na fazenda?"
+ALUNO_7_24,Estudante 24,Q1,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_24,Estudante 24,Q2,"Para encontrar o total arrecadado, somei as doações dos dois bairros: 875 kg+1.120 kg=1.995 kg. Foram arrecadados 1.995 kg de alimentos."
+ALUNO_7_24,Estudante 24,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_24,Estudante 24,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_24,Estudante 24,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_24,Estudante 24,Q6,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_24,Estudante 24,Q7,"Para calcular a produção total, somei as peças produzidas em janeiro e fevereiro: 15.670+18.905=34.575. A produção total da empresa nesses dois meses foi de 34.575 peças."
+ALUNO_7_24,Estudante 24,Q8,"Para saber o total de material reciclável recolhido, somei as quantidades de cada material: 2.100 kg+1.550 kg+890 kg=4.540 kg. Foram recolhidos 4.540 kg de material reciclável no total."
+ALUNO_7_24,Estudante 24,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_24,Estudante 24,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_24,Estudante 24,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_24,Estudante 24,Q12,"Para determinar a população total da Paraíba, somei o número de homens e mulheres: 1.546.042+1.654.578=3.200.620. A população da Paraíba, segundo esse censo, é de 3.200.620 habitantes."
+ALUNO_7_24,Estudante 24,Q13,"Para saber o total de frutas, somei a quantidade de cada tipo de fruta: 7+5+3=15. Há 15 frutas no total na fruteira."
+ALUNO_7_24,Estudante 24,Q14,"Para saber com quantos peixes Ana ficou, somei os peixes que ela já tinha com os que comprou: 18+7=25. Ana ficou com 25 peixes."
+ALUNO_7_24,Estudante 24,Q15,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_24,Estudante 24,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_24,Estudante 24,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_24,Estudante 24,Q18,"Eu somei, mas o resultado deu 123."
+ALUNO_7_24,Estudante 24,Q19,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_24,Estudante 24,Q20,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_25,Estudante 25,Q1,"Para saber o total, eu somei os livros dos dois dias: 273+319=592. A biblioteca recebeu um total de 592 livros."
+ALUNO_7_25,Estudante 25,Q2,Achei que era um problema de divisão.
+ALUNO_7_25,Estudante 25,Q3,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_25,Estudante 25,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_25,Estudante 25,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_25,Estudante 25,Q6,"Para encontrar a distância total percorrida, somei a distância de cada dia: 7.500 metros+6.800 metros=14.300 metros. O atleta percorreu 14.300 metros no total."
+ALUNO_7_25,Estudante 25,Q7,Achei que era um problema de divisão.
+ALUNO_7_25,Estudante 25,Q8,"Para saber o total de material reciclável recolhido, somei as quantidades de cada material: 2.100 kg+1.550 kg+890 kg=4.540 kg. Foram recolhidos 4.540 kg de material reciclável no total."
+ALUNO_7_25,Estudante 25,Q9,"Eu somei, mas o resultado deu 123."
+ALUNO_7_25,Estudante 25,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_25,Estudante 25,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_25,Estudante 25,Q12,"Eu somei, mas o resultado deu 123."
+ALUNO_7_25,Estudante 25,Q13,"Para saber o total de frutas, somei a quantidade de cada tipo de fruta: 7+5+3=15. Há 15 frutas no total na fruteira."
+ALUNO_7_25,Estudante 25,Q14,"Para saber com quantos peixes Ana ficou, somei os peixes que ela já tinha com os que comprou: 18+7=25. Ana ficou com 25 peixes."
+ALUNO_7_25,Estudante 25,Q15,Achei que era um problema de divisão.
+ALUNO_7_25,Estudante 25,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_25,Estudante 25,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_25,Estudante 25,Q18,"Eu somei, mas o resultado deu 123."
+ALUNO_7_25,Estudante 25,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_25,Estudante 25,Q20,"Em uma fazenda, há 120 galinhas e 85 patos. Quantas aves há ao todo na fazenda?"
+ALUNO_7_26,Estudante 26,Q1,"Eu somei, mas o resultado deu 123."
+ALUNO_7_26,Estudante 26,Q2,Achei que era um problema de divisão.
+ALUNO_7_26,Estudante 26,Q3,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_26,Estudante 26,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_26,Estudante 26,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_26,Estudante 26,Q6,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_26,Estudante 26,Q7,"Para calcular a produção total, somei as peças produzidas em janeiro e fevereiro: 15.670+18.905=34.575. A produção total da empresa nesses dois meses foi de 34.575 peças."
+ALUNO_7_26,Estudante 26,Q8,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_26,Estudante 26,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_26,Estudante 26,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_26,Estudante 26,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_26,Estudante 26,Q12,"Para determinar a população total da Paraíba, somei o número de homens e mulheres: 1.546.042+1.654.578=3.200.620. A população da Paraíba, segundo esse censo, é de 3.200.620 habitantes."
+ALUNO_7_26,Estudante 26,Q13,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_26,Estudante 26,Q14,"Para saber com quantos peixes Ana ficou, somei os peixes que ela já tinha com os que comprou: 18+7=25. Ana ficou com 25 peixes."
+ALUNO_7_26,Estudante 26,Q15,Achei que era um problema de divisão.
+ALUNO_7_26,Estudante 26,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_26,Estudante 26,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_26,Estudante 26,Q18,"Em um estacionamento, há 15 carros brancos, 10 carros pretos e 5 carros vermelhos. Quantos carros há no total?"
+ALUNO_7_26,Estudante 26,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_26,Estudante 26,Q20,"Em uma fazenda, há 120 galinhas e 85 patos. Quantas aves há ao todo na fazenda?"
+ALUNO_7_27,Estudante 27,Q1,"Para saber o total, eu somei os livros dos dois dias: 273+319=592. A biblioteca recebeu um total de 592 livros."
+ALUNO_7_27,Estudante 27,Q2,"Para encontrar o total arrecadado, somei as doações dos dois bairros: 875 kg+1.120 kg=1.995 kg. Foram arrecadados 1.995 kg de alimentos."
+ALUNO_7_27,Estudante 27,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_27,Estudante 27,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_27,Estudante 27,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_27,Estudante 27,Q6,"Para encontrar a distância total percorrida, somei a distância de cada dia: 7.500 metros+6.800 metros=14.300 metros. O atleta percorreu 14.300 metros no total."
+ALUNO_7_27,Estudante 27,Q7,"Para calcular a produção total, somei as peças produzidas em janeiro e fevereiro: 15.670+18.905=34.575. A produção total da empresa nesses dois meses foi de 34.575 peças."
+ALUNO_7_27,Estudante 27,Q8,"Eu somei, mas o resultado deu 123."
+ALUNO_7_27,Estudante 27,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_27,Estudante 27,Q10,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_27,Estudante 27,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_27,Estudante 27,Q12,"Para determinar a população total da Paraíba, somei o número de homens e mulheres: 1.546.042+1.654.578=3.200.620. A população da Paraíba, segundo esse censo, é de 3.200.620 habitantes."
+ALUNO_7_27,Estudante 27,Q13,"Para saber o total de frutas, somei a quantidade de cada tipo de fruta: 7+5+3=15. Há 15 frutas no total na fruteira."
+ALUNO_7_27,Estudante 27,Q14,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_27,Estudante 27,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_27,Estudante 27,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_27,Estudante 27,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_27,Estudante 27,Q18,"Em um estacionamento, há 15 carros brancos, 10 carros pretos e 5 carros vermelhos. Quantos carros há no total?"
+ALUNO_7_27,Estudante 27,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_27,Estudante 27,Q20,"Em uma fazenda, há 120 galinhas e 85 patos. Quantas aves há ao todo na fazenda?"
+ALUNO_7_28,Estudante 28,Q1,"Para saber o total, eu somei os livros dos dois dias: 273+319=592. A biblioteca recebeu um total de 592 livros."
+ALUNO_7_28,Estudante 28,Q2,"Para encontrar o total arrecadado, somei as doações dos dois bairros: 875 kg+1.120 kg=1.995 kg. Foram arrecadados 1.995 kg de alimentos."
+ALUNO_7_28,Estudante 28,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_28,Estudante 28,Q4,Achei que era um problema de divisão.
+ALUNO_7_28,Estudante 28,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_28,Estudante 28,Q6,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_28,Estudante 28,Q7,Achei que era um problema de divisão.
+ALUNO_7_28,Estudante 28,Q8,"Eu somei, mas o resultado deu 123."
+ALUNO_7_28,Estudante 28,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_28,Estudante 28,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_28,Estudante 28,Q11,Não respondeu.
+ALUNO_7_28,Estudante 28,Q12,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_28,Estudante 28,Q13,Achei que era um problema de divisão.
+ALUNO_7_28,Estudante 28,Q14,"Para saber com quantos peixes Ana ficou, somei os peixes que ela já tinha com os que comprou: 18+7=25. Ana ficou com 25 peixes."
+ALUNO_7_28,Estudante 28,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_28,Estudante 28,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_28,Estudante 28,Q17,Achei que era um problema de divisão.
+ALUNO_7_28,Estudante 28,Q18,"Em um estacionamento, há 15 carros brancos, 10 carros pretos e 5 carros vermelhos. Quantos carros há no total?"
+ALUNO_7_28,Estudante 28,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_28,Estudante 28,Q20,"Eu somei, mas o resultado deu 123."
+ALUNO_7_29,Estudante 29,Q1,Achei que era um problema de divisão.
+ALUNO_7_29,Estudante 29,Q2,Achei que era um problema de divisão.
+ALUNO_7_29,Estudante 29,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_29,Estudante 29,Q4,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_29,Estudante 29,Q5,"Eu somei, mas o resultado deu 123."
+ALUNO_7_29,Estudante 29,Q6,"Para encontrar a distância total percorrida, somei a distância de cada dia: 7.500 metros+6.800 metros=14.300 metros. O atleta percorreu 14.300 metros no total."
+ALUNO_7_29,Estudante 29,Q7,"Para calcular a produção total, somei as peças produzidas em janeiro e fevereiro: 15.670+18.905=34.575. A produção total da empresa nesses dois meses foi de 34.575 peças."
+ALUNO_7_29,Estudante 29,Q8,"Para saber o total de material reciclável recolhido, somei as quantidades de cada material: 2.100 kg+1.550 kg+890 kg=4.540 kg. Foram recolhidos 4.540 kg de material reciclável no total."
+ALUNO_7_29,Estudante 29,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_29,Estudante 29,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_29,Estudante 29,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_29,Estudante 29,Q12,Não respondeu.
+ALUNO_7_29,Estudante 29,Q13,Achei que era um problema de divisão.
+ALUNO_7_29,Estudante 29,Q14,Achei que era um problema de divisão.
+ALUNO_7_29,Estudante 29,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_29,Estudante 29,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_29,Estudante 29,Q17,Achei que era um problema de divisão.
+ALUNO_7_29,Estudante 29,Q18,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_29,Estudante 29,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_29,Estudante 29,Q20,"Em uma fazenda, há 120 galinhas e 85 patos. Quantas aves há ao todo na fazenda?"
+ALUNO_7_30,Estudante 30,Q1,"Para saber o total, eu somei os livros dos dois dias: 273+319=592. A biblioteca recebeu um total de 592 livros."
+ALUNO_7_30,Estudante 30,Q2,"Para encontrar o total arrecadado, somei as doações dos dois bairros: 875 kg+1.120 kg=1.995 kg. Foram arrecadados 1.995 kg de alimentos."
+ALUNO_7_30,Estudante 30,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_30,Estudante 30,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_30,Estudante 30,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_30,Estudante 30,Q6,"Para encontrar a distância total percorrida, somei a distância de cada dia: 7.500 metros+6.800 metros=14.300 metros. O atleta percorreu 14.300 metros no total."
+ALUNO_7_30,Estudante 30,Q7,"Para calcular a produção total, somei as peças produzidas em janeiro e fevereiro: 15.670+18.905=34.575. A produção total da empresa nesses dois meses foi de 34.575 peças."
+ALUNO_7_30,Estudante 30,Q8,"Para saber o total de material reciclável recolhido, somei as quantidades de cada material: 2.100 kg+1.550 kg+890 kg=4.540 kg. Foram recolhidos 4.540 kg de material reciclável no total."
+ALUNO_7_30,Estudante 30,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_30,Estudante 30,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_30,Estudante 30,Q11,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_30,Estudante 30,Q12,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_30,Estudante 30,Q13,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_30,Estudante 30,Q14,"Eu somei, mas o resultado deu 123."
+ALUNO_7_30,Estudante 30,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_30,Estudante 30,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_30,Estudante 30,Q17,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_30,Estudante 30,Q18,Achei que era um problema de divisão.
+ALUNO_7_30,Estudante 30,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_30,Estudante 30,Q20,"Em uma fazenda, há 120 galinhas e 85 patos. Quantas aves há ao todo na fazenda?"
+ALUNO_7_31,Estudante 31,Q1,"Para saber o total, eu somei os livros dos dois dias: 273+319=592. A biblioteca recebeu um total de 592 livros."
+ALUNO_7_31,Estudante 31,Q2,"Para encontrar o total arrecadado, somei as doações dos dois bairros: 875 kg+1.120 kg=1.995 kg. Foram arrecadados 1.995 kg de alimentos."
+ALUNO_7_31,Estudante 31,Q3,Achei que era um problema de divisão.
+ALUNO_7_31,Estudante 31,Q4,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_31,Estudante 31,Q5,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_31,Estudante 31,Q6,"Para encontrar a distância total percorrida, somei a distância de cada dia: 7.500 metros+6.800 metros=14.300 metros. O atleta percorreu 14.300 metros no total."
+ALUNO_7_31,Estudante 31,Q7,"Para calcular a produção total, somei as peças produzidas em janeiro e fevereiro: 15.670+18.905=34.575. A produção total da empresa nesses dois meses foi de 34.575 peças."
+ALUNO_7_31,Estudante 31,Q8,"Eu somei, mas o resultado deu 123."
+ALUNO_7_31,Estudante 31,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_31,Estudante 31,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_31,Estudante 31,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_31,Estudante 31,Q12,Não respondeu.
+ALUNO_7_31,Estudante 31,Q13,"Para saber o total de frutas, somei a quantidade de cada tipo de fruta: 7+5+3=15. Há 15 frutas no total na fruteira."
+ALUNO_7_31,Estudante 31,Q14,"Para saber com quantos peixes Ana ficou, somei os peixes que ela já tinha com os que comprou: 18+7=25. Ana ficou com 25 peixes."
+ALUNO_7_31,Estudante 31,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_31,Estudante 31,Q16,"Eu somei, mas o resultado deu 123."
+ALUNO_7_31,Estudante 31,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_31,Estudante 31,Q18,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_31,Estudante 31,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_31,Estudante 31,Q20,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_32,Estudante 32,Q1,"Eu somei, mas o resultado deu 123."
+ALUNO_7_32,Estudante 32,Q2,"Para encontrar o total arrecadado, somei as doações dos dois bairros: 875 kg+1.120 kg=1.995 kg. Foram arrecadados 1.995 kg de alimentos."
+ALUNO_7_32,Estudante 32,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_32,Estudante 32,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_32,Estudante 32,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_32,Estudante 32,Q6,"Para encontrar a distância total percorrida, somei a distância de cada dia: 7.500 metros+6.800 metros=14.300 metros. O atleta percorreu 14.300 metros no total."
+ALUNO_7_32,Estudante 32,Q7,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_32,Estudante 32,Q8,"Para saber o total de material reciclável recolhido, somei as quantidades de cada material: 2.100 kg+1.550 kg+890 kg=4.540 kg. Foram recolhidos 4.540 kg de material reciclável no total."
+ALUNO_7_32,Estudante 32,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_32,Estudante 32,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_32,Estudante 32,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_32,Estudante 32,Q12,"Para determinar a população total da Paraíba, somei o número de homens e mulheres: 1.546.042+1.654.578=3.200.620. A população da Paraíba, segundo esse censo, é de 3.200.620 habitantes."
+ALUNO_7_32,Estudante 32,Q13,"Para saber o total de frutas, somei a quantidade de cada tipo de fruta: 7+5+3=15. Há 15 frutas no total na fruteira."
+ALUNO_7_32,Estudante 32,Q14,Não respondeu.
+ALUNO_7_32,Estudante 32,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_32,Estudante 32,Q16,Achei que era um problema de divisão.
+ALUNO_7_32,Estudante 32,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_32,Estudante 32,Q18,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_32,Estudante 32,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_32,Estudante 32,Q20,Achei que era um problema de divisão.
+ALUNO_7_33,Estudante 33,Q1,Achei que era um problema de divisão.
+ALUNO_7_33,Estudante 33,Q2,"Para encontrar o total arrecadado, somei as doações dos dois bairros: 875 kg+1.120 kg=1.995 kg. Foram arrecadados 1.995 kg de alimentos."
+ALUNO_7_33,Estudante 33,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_33,Estudante 33,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_33,Estudante 33,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_33,Estudante 33,Q6,"Para encontrar a distância total percorrida, somei a distância de cada dia: 7.500 metros+6.800 metros=14.300 metros. O atleta percorreu 14.300 metros no total."
+ALUNO_7_33,Estudante 33,Q7,"Para calcular a produção total, somei as peças produzidas em janeiro e fevereiro: 15.670+18.905=34.575. A produção total da empresa nesses dois meses foi de 34.575 peças."
+ALUNO_7_33,Estudante 33,Q8,"Para saber o total de material reciclável recolhido, somei as quantidades de cada material: 2.100 kg+1.550 kg+890 kg=4.540 kg. Foram recolhidos 4.540 kg de material reciclável no total."
+ALUNO_7_33,Estudante 33,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_33,Estudante 33,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_33,Estudante 33,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_33,Estudante 33,Q12,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_33,Estudante 33,Q13,"Eu somei, mas o resultado deu 123."
+ALUNO_7_33,Estudante 33,Q14,"Eu somei, mas o resultado deu 123."
+ALUNO_7_33,Estudante 33,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_33,Estudante 33,Q16,"Eu somei, mas o resultado deu 123."
+ALUNO_7_33,Estudante 33,Q17,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_33,Estudante 33,Q18,"Em um estacionamento, há 15 carros brancos, 10 carros pretos e 5 carros vermelhos. Quantos carros há no total?"
+ALUNO_7_33,Estudante 33,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_33,Estudante 33,Q20,"Eu somei, mas o resultado deu 123."
+ALUNO_7_34,Estudante 34,Q1,"Para saber o total, eu somei os livros dos dois dias: 273+319=592. A biblioteca recebeu um total de 592 livros."
+ALUNO_7_34,Estudante 34,Q2,Achei que era um problema de divisão.
+ALUNO_7_34,Estudante 34,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_34,Estudante 34,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_34,Estudante 34,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_34,Estudante 34,Q6,"Para encontrar a distância total percorrida, somei a distância de cada dia: 7.500 metros+6.800 metros=14.300 metros. O atleta percorreu 14.300 metros no total."
+ALUNO_7_34,Estudante 34,Q7,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_34,Estudante 34,Q8,"Para saber o total de material reciclável recolhido, somei as quantidades de cada material: 2.100 kg+1.550 kg+890 kg=4.540 kg. Foram recolhidos 4.540 kg de material reciclável no total."
+ALUNO_7_34,Estudante 34,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_34,Estudante 34,Q10,Não respondeu.
+ALUNO_7_34,Estudante 34,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_34,Estudante 34,Q12,"Eu somei, mas o resultado deu 123."
+ALUNO_7_34,Estudante 34,Q13,"Para saber o total de frutas, somei a quantidade de cada tipo de fruta: 7+5+3=15. Há 15 frutas no total na fruteira."
+ALUNO_7_34,Estudante 34,Q14,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_34,Estudante 34,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_34,Estudante 34,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_34,Estudante 34,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_34,Estudante 34,Q18,"Em um estacionamento, há 15 carros brancos, 10 carros pretos e 5 carros vermelhos. Quantos carros há no total?"
+ALUNO_7_34,Estudante 34,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_34,Estudante 34,Q20,"Em uma fazenda, há 120 galinhas e 85 patos. Quantas aves há ao todo na fazenda?"
+ALUNO_7_35,Estudante 35,Q1,"Para saber o total, eu somei os livros dos dois dias: 273+319=592. A biblioteca recebeu um total de 592 livros."
+ALUNO_7_35,Estudante 35,Q2,"Para encontrar o total arrecadado, somei as doações dos dois bairros: 875 kg+1.120 kg=1.995 kg. Foram arrecadados 1.995 kg de alimentos."
+ALUNO_7_35,Estudante 35,Q3,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_35,Estudante 35,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_35,Estudante 35,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_35,Estudante 35,Q6,"Para encontrar a distância total percorrida, somei a distância de cada dia: 7.500 metros+6.800 metros=14.300 metros. O atleta percorreu 14.300 metros no total."
+ALUNO_7_35,Estudante 35,Q7,Achei que era um problema de divisão.
+ALUNO_7_35,Estudante 35,Q8,"Para saber o total de material reciclável recolhido, somei as quantidades de cada material: 2.100 kg+1.550 kg+890 kg=4.540 kg. Foram recolhidos 4.540 kg de material reciclável no total."
+ALUNO_7_35,Estudante 35,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_35,Estudante 35,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_35,Estudante 35,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_35,Estudante 35,Q12,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_35,Estudante 35,Q13,"Para saber o total de frutas, somei a quantidade de cada tipo de fruta: 7+5+3=15. Há 15 frutas no total na fruteira."
+ALUNO_7_35,Estudante 35,Q14,Não respondeu.
+ALUNO_7_35,Estudante 35,Q15,"Eu somei, mas o resultado deu 123."
+ALUNO_7_35,Estudante 35,Q16,Não respondeu.
+ALUNO_7_35,Estudante 35,Q17,"Eu somei, mas o resultado deu 123."
+ALUNO_7_35,Estudante 35,Q18,"Eu somei, mas o resultado deu 123."
+ALUNO_7_35,Estudante 35,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_35,Estudante 35,Q20,"Em uma fazenda, há 120 galinhas e 85 patos. Quantas aves há ao todo na fazenda?"
+ALUNO_7_36,Estudante 36,Q1,"Para saber o total, eu somei os livros dos dois dias: 273+319=592. A biblioteca recebeu um total de 592 livros."
+ALUNO_7_36,Estudante 36,Q2,"Para encontrar o total arrecadado, somei as doações dos dois bairros: 875 kg+1.120 kg=1.995 kg. Foram arrecadados 1.995 kg de alimentos."
+ALUNO_7_36,Estudante 36,Q3,Não respondeu.
+ALUNO_7_36,Estudante 36,Q4,Não respondeu.
+ALUNO_7_36,Estudante 36,Q5,"Eu somei, mas o resultado deu 123."
+ALUNO_7_36,Estudante 36,Q6,"Para encontrar a distância total percorrida, somei a distância de cada dia: 7.500 metros+6.800 metros=14.300 metros. O atleta percorreu 14.300 metros no total."
+ALUNO_7_36,Estudante 36,Q7,"Para calcular a produção total, somei as peças produzidas em janeiro e fevereiro: 15.670+18.905=34.575. A produção total da empresa nesses dois meses foi de 34.575 peças."
+ALUNO_7_36,Estudante 36,Q8,"Para saber o total de material reciclável recolhido, somei as quantidades de cada material: 2.100 kg+1.550 kg+890 kg=4.540 kg. Foram recolhidos 4.540 kg de material reciclável no total."
+ALUNO_7_36,Estudante 36,Q9,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_36,Estudante 36,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_36,Estudante 36,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_36,Estudante 36,Q12,"Eu somei, mas o resultado deu 123."
+ALUNO_7_36,Estudante 36,Q13,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_36,Estudante 36,Q14,"Para saber com quantos peixes Ana ficou, somei os peixes que ela já tinha com os que comprou: 18+7=25. Ana ficou com 25 peixes."
+ALUNO_7_36,Estudante 36,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_36,Estudante 36,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_36,Estudante 36,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_36,Estudante 36,Q18,"Em um estacionamento, há 15 carros brancos, 10 carros pretos e 5 carros vermelhos. Quantos carros há no total?"
+ALUNO_7_36,Estudante 36,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_36,Estudante 36,Q20,"Em uma fazenda, há 120 galinhas e 85 patos. Quantas aves há ao todo na fazenda?"
+ALUNO_7_37,Estudante 37,Q1,"Eu somei, mas o resultado deu 123."
+ALUNO_7_37,Estudante 37,Q2,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_37,Estudante 37,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_37,Estudante 37,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_37,Estudante 37,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_37,Estudante 37,Q6,"Para encontrar a distância total percorrida, somei a distância de cada dia: 7.500 metros+6.800 metros=14.300 metros. O atleta percorreu 14.300 metros no total."
+ALUNO_7_37,Estudante 37,Q7,"Para calcular a produção total, somei as peças produzidas em janeiro e fevereiro: 15.670+18.905=34.575. A produção total da empresa nesses dois meses foi de 34.575 peças."
+ALUNO_7_37,Estudante 37,Q8,"Para saber o total de material reciclável recolhido, somei as quantidades de cada material: 2.100 kg+1.550 kg+890 kg=4.540 kg. Foram recolhidos 4.540 kg de material reciclável no total."
+ALUNO_7_37,Estudante 37,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_37,Estudante 37,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_37,Estudante 37,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_37,Estudante 37,Q12,"Para determinar a população total da Paraíba, somei o número de homens e mulheres: 1.546.042+1.654.578=3.200.620. A população da Paraíba, segundo esse censo, é de 3.200.620 habitantes."
+ALUNO_7_37,Estudante 37,Q13,Achei que era um problema de divisão.
+ALUNO_7_37,Estudante 37,Q14,"Eu somei, mas o resultado deu 123."
+ALUNO_7_37,Estudante 37,Q15,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_37,Estudante 37,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_37,Estudante 37,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_37,Estudante 37,Q18,Achei que era um problema de divisão.
+ALUNO_7_37,Estudante 37,Q19,Não respondeu.
+ALUNO_7_37,Estudante 37,Q20,Achei que era um problema de divisão.
+ALUNO_7_38,Estudante 38,Q1,"Para saber o total, eu somei os livros dos dois dias: 273+319=592. A biblioteca recebeu um total de 592 livros."
+ALUNO_7_38,Estudante 38,Q2,Achei que era um problema de divisão.
+ALUNO_7_38,Estudante 38,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_38,Estudante 38,Q4,"Eu somei, mas o resultado deu 123."
+ALUNO_7_38,Estudante 38,Q5,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_38,Estudante 38,Q6,"Para encontrar a distância total percorrida, somei a distância de cada dia: 7.500 metros+6.800 metros=14.300 metros. O atleta percorreu 14.300 metros no total."
+ALUNO_7_38,Estudante 38,Q7,"Para calcular a produção total, somei as peças produzidas em janeiro e fevereiro: 15.670+18.905=34.575. A produção total da empresa nesses dois meses foi de 34.575 peças."
+ALUNO_7_38,Estudante 38,Q8,"Para saber o total de material reciclável recolhido, somei as quantidades de cada material: 2.100 kg+1.550 kg+890 kg=4.540 kg. Foram recolhidos 4.540 kg de material reciclável no total."
+ALUNO_7_38,Estudante 38,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_38,Estudante 38,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_38,Estudante 38,Q11,Não respondeu.
+ALUNO_7_38,Estudante 38,Q12,"Para determinar a população total da Paraíba, somei o número de homens e mulheres: 1.546.042+1.654.578=3.200.620. A população da Paraíba, segundo esse censo, é de 3.200.620 habitantes."
+ALUNO_7_38,Estudante 38,Q13,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_38,Estudante 38,Q14,Achei que era um problema de divisão.
+ALUNO_7_38,Estudante 38,Q15,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_38,Estudante 38,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_38,Estudante 38,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_38,Estudante 38,Q18,"Em um estacionamento, há 15 carros brancos, 10 carros pretos e 5 carros vermelhos. Quantos carros há no total?"
+ALUNO_7_38,Estudante 38,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_38,Estudante 38,Q20,"Em uma fazenda, há 120 galinhas e 85 patos. Quantas aves há ao todo na fazenda?"
+ALUNO_7_39,Estudante 39,Q1,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_39,Estudante 39,Q2,Achei que era um problema de divisão.
+ALUNO_7_39,Estudante 39,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_39,Estudante 39,Q4,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_39,Estudante 39,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_39,Estudante 39,Q6,"Para encontrar a distância total percorrida, somei a distância de cada dia: 7.500 metros+6.800 metros=14.300 metros. O atleta percorreu 14.300 metros no total."
+ALUNO_7_39,Estudante 39,Q7,"Para calcular a produção total, somei as peças produzidas em janeiro e fevereiro: 15.670+18.905=34.575. A produção total da empresa nesses dois meses foi de 34.575 peças."
+ALUNO_7_39,Estudante 39,Q8,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_39,Estudante 39,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_39,Estudante 39,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_39,Estudante 39,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_39,Estudante 39,Q12,"Para determinar a população total da Paraíba, somei o número de homens e mulheres: 1.546.042+1.654.578=3.200.620. A população da Paraíba, segundo esse censo, é de 3.200.620 habitantes."
+ALUNO_7_39,Estudante 39,Q13,Achei que era um problema de divisão.
+ALUNO_7_39,Estudante 39,Q14,"Para saber com quantos peixes Ana ficou, somei os peixes que ela já tinha com os que comprou: 18+7=25. Ana ficou com 25 peixes."
+ALUNO_7_39,Estudante 39,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_39,Estudante 39,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_39,Estudante 39,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_39,Estudante 39,Q18,"Em um estacionamento, há 15 carros brancos, 10 carros pretos e 5 carros vermelhos. Quantos carros há no total?"
+ALUNO_7_39,Estudante 39,Q19,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_39,Estudante 39,Q20,"Eu somei, mas o resultado deu 123."
+ALUNO_7_40,Estudante 40,Q1,"Para saber o total, eu somei os livros dos dois dias: 273+319=592. A biblioteca recebeu um total de 592 livros."
+ALUNO_7_40,Estudante 40,Q2,Achei que era um problema de divisão.
+ALUNO_7_40,Estudante 40,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_40,Estudante 40,Q4,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_40,Estudante 40,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_40,Estudante 40,Q6,Achei que era um problema de divisão.
+ALUNO_7_40,Estudante 40,Q7,"Eu somei, mas o resultado deu 123."
+ALUNO_7_40,Estudante 40,Q8,"Para saber o total de material reciclável recolhido, somei as quantidades de cada material: 2.100 kg+1.550 kg+890 kg=4.540 kg. Foram recolhidos 4.540 kg de material reciclável no total."
+ALUNO_7_40,Estudante 40,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_40,Estudante 40,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_40,Estudante 40,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_40,Estudante 40,Q12,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_40,Estudante 40,Q13,Não respondeu.
+ALUNO_7_40,Estudante 40,Q14,"Para saber com quantos peixes Ana ficou, somei os peixes que ela já tinha com os que comprou: 18+7=25. Ana ficou com 25 peixes."
+ALUNO_7_40,Estudante 40,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_40,Estudante 40,Q16,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_40,Estudante 40,Q17,"Eu somei, mas o resultado deu 123."
+ALUNO_7_40,Estudante 40,Q18,Achei que era um problema de divisão.
+ALUNO_7_40,Estudante 40,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_40,Estudante 40,Q20,"Em uma fazenda, há 120 galinhas e 85 patos. Quantas aves há ao todo na fazenda?"
+ALUNO_7_41,Estudante 41,Q1,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_41,Estudante 41,Q2,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_41,Estudante 41,Q3,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_41,Estudante 41,Q4,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_41,Estudante 41,Q5,Achei que era um problema de divisão.
+ALUNO_7_41,Estudante 41,Q6,"Eu somei, mas o resultado deu 123."
+ALUNO_7_41,Estudante 41,Q7,"Para calcular a produção total, somei as peças produzidas em janeiro e fevereiro: 15.670+18.905=34.575. A produção total da empresa nesses dois meses foi de 34.575 peças."
+ALUNO_7_41,Estudante 41,Q8,"Para saber o total de material reciclável recolhido, somei as quantidades de cada material: 2.100 kg+1.550 kg+890 kg=4.540 kg. Foram recolhidos 4.540 kg de material reciclável no total."
+ALUNO_7_41,Estudante 41,Q9,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_41,Estudante 41,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_41,Estudante 41,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_41,Estudante 41,Q12,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_41,Estudante 41,Q13,"Para saber o total de frutas, somei a quantidade de cada tipo de fruta: 7+5+3=15. Há 15 frutas no total na fruteira."
+ALUNO_7_41,Estudante 41,Q14,"Para saber com quantos peixes Ana ficou, somei os peixes que ela já tinha com os que comprou: 18+7=25. Ana ficou com 25 peixes."
+ALUNO_7_41,Estudante 41,Q15,Achei que era um problema de divisão.
+ALUNO_7_41,Estudante 41,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_41,Estudante 41,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_41,Estudante 41,Q18,"Em um estacionamento, há 15 carros brancos, 10 carros pretos e 5 carros vermelhos. Quantos carros há no total?"
+ALUNO_7_41,Estudante 41,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_41,Estudante 41,Q20,Não respondeu.
+ALUNO_7_42,Estudante 42,Q1,"Para saber o total, eu somei os livros dos dois dias: 273+319=592. A biblioteca recebeu um total de 592 livros."
+ALUNO_7_42,Estudante 42,Q2,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_42,Estudante 42,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_42,Estudante 42,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_42,Estudante 42,Q5,"Eu somei, mas o resultado deu 123."
+ALUNO_7_42,Estudante 42,Q6,"Para encontrar a distância total percorrida, somei a distância de cada dia: 7.500 metros+6.800 metros=14.300 metros. O atleta percorreu 14.300 metros no total."
+ALUNO_7_42,Estudante 42,Q7,Não respondeu.
+ALUNO_7_42,Estudante 42,Q8,"Para saber o total de material reciclável recolhido, somei as quantidades de cada material: 2.100 kg+1.550 kg+890 kg=4.540 kg. Foram recolhidos 4.540 kg de material reciclável no total."
+ALUNO_7_42,Estudante 42,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_42,Estudante 42,Q10,"Eu somei, mas o resultado deu 123."
+ALUNO_7_42,Estudante 42,Q11,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_42,Estudante 42,Q12,"Para determinar a população total da Paraíba, somei o número de homens e mulheres: 1.546.042+1.654.578=3.200.620. A população da Paraíba, segundo esse censo, é de 3.200.620 habitantes."
+ALUNO_7_42,Estudante 42,Q13,"Eu somei, mas o resultado deu 123."
+ALUNO_7_42,Estudante 42,Q14,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_42,Estudante 42,Q15,"Eu somei, mas o resultado deu 123."
+ALUNO_7_42,Estudante 42,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_42,Estudante 42,Q17,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_42,Estudante 42,Q18,"Em um estacionamento, há 15 carros brancos, 10 carros pretos e 5 carros vermelhos. Quantos carros há no total?"
+ALUNO_7_42,Estudante 42,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_42,Estudante 42,Q20,Achei que era um problema de divisão.
+ALUNO_7_43,Estudante 43,Q1,"Para saber o total, eu somei os livros dos dois dias: 273+319=592. A biblioteca recebeu um total de 592 livros."
+ALUNO_7_43,Estudante 43,Q2,"Para encontrar o total arrecadado, somei as doações dos dois bairros: 875 kg+1.120 kg=1.995 kg. Foram arrecadados 1.995 kg de alimentos."
+ALUNO_7_43,Estudante 43,Q3,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_43,Estudante 43,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_43,Estudante 43,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_43,Estudante 43,Q6,"Para encontrar a distância total percorrida, somei a distância de cada dia: 7.500 metros+6.800 metros=14.300 metros. O atleta percorreu 14.300 metros no total."
+ALUNO_7_43,Estudante 43,Q7,"Para calcular a produção total, somei as peças produzidas em janeiro e fevereiro: 15.670+18.905=34.575. A produção total da empresa nesses dois meses foi de 34.575 peças."
+ALUNO_7_43,Estudante 43,Q8,"Para saber o total de material reciclável recolhido, somei as quantidades de cada material: 2.100 kg+1.550 kg+890 kg=4.540 kg. Foram recolhidos 4.540 kg de material reciclável no total."
+ALUNO_7_43,Estudante 43,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_43,Estudante 43,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_43,Estudante 43,Q11,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_43,Estudante 43,Q12,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_43,Estudante 43,Q13,"Para saber o total de frutas, somei a quantidade de cada tipo de fruta: 7+5+3=15. Há 15 frutas no total na fruteira."
+ALUNO_7_43,Estudante 43,Q14,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_43,Estudante 43,Q15,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_43,Estudante 43,Q16,"Eu somei, mas o resultado deu 123."
+ALUNO_7_43,Estudante 43,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_43,Estudante 43,Q18,"Em um estacionamento, há 15 carros brancos, 10 carros pretos e 5 carros vermelhos. Quantos carros há no total?"
+ALUNO_7_43,Estudante 43,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_43,Estudante 43,Q20,"Eu somei, mas o resultado deu 123."
+ALUNO_7_44,Estudante 44,Q1,"Eu somei, mas o resultado deu 123."
+ALUNO_7_44,Estudante 44,Q2,"Para encontrar o total arrecadado, somei as doações dos dois bairros: 875 kg+1.120 kg=1.995 kg. Foram arrecadados 1.995 kg de alimentos."
+ALUNO_7_44,Estudante 44,Q3,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_44,Estudante 44,Q4,"Eu somei, mas o resultado deu 123."
+ALUNO_7_44,Estudante 44,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_44,Estudante 44,Q6,Não respondeu.
+ALUNO_7_44,Estudante 44,Q7,"Para calcular a produção total, somei as peças produzidas em janeiro e fevereiro: 15.670+18.905=34.575. A produção total da empresa nesses dois meses foi de 34.575 peças."
+ALUNO_7_44,Estudante 44,Q8,"Para saber o total de material reciclável recolhido, somei as quantidades de cada material: 2.100 kg+1.550 kg+890 kg=4.540 kg. Foram recolhidos 4.540 kg de material reciclável no total."
+ALUNO_7_44,Estudante 44,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_44,Estudante 44,Q10,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_44,Estudante 44,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_44,Estudante 44,Q12,"Para determinar a população total da Paraíba, somei o número de homens e mulheres: 1.546.042+1.654.578=3.200.620. A população da Paraíba, segundo esse censo, é de 3.200.620 habitantes."
+ALUNO_7_44,Estudante 44,Q13,"Para saber o total de frutas, somei a quantidade de cada tipo de fruta: 7+5+3=15. Há 15 frutas no total na fruteira."
+ALUNO_7_44,Estudante 44,Q14,"Para saber com quantos peixes Ana ficou, somei os peixes que ela já tinha com os que comprou: 18+7=25. Ana ficou com 25 peixes."
+ALUNO_7_44,Estudante 44,Q15,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_44,Estudante 44,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_44,Estudante 44,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_44,Estudante 44,Q18,"Em um estacionamento, há 15 carros brancos, 10 carros pretos e 5 carros vermelhos. Quantos carros há no total?"
+ALUNO_7_44,Estudante 44,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_44,Estudante 44,Q20,"Em uma fazenda, há 120 galinhas e 85 patos. Quantas aves há ao todo na fazenda?"
+ALUNO_7_45,Estudante 45,Q1,"Para saber o total, eu somei os livros dos dois dias: 273+319=592. A biblioteca recebeu um total de 592 livros."
+ALUNO_7_45,Estudante 45,Q2,"Para encontrar o total arrecadado, somei as doações dos dois bairros: 875 kg+1.120 kg=1.995 kg. Foram arrecadados 1.995 kg de alimentos."
+ALUNO_7_45,Estudante 45,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_45,Estudante 45,Q4,"Eu somei, mas o resultado deu 123."
+ALUNO_7_45,Estudante 45,Q5,Achei que era um problema de divisão.
+ALUNO_7_45,Estudante 45,Q6,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_45,Estudante 45,Q7,"Para calcular a produção total, somei as peças produzidas em janeiro e fevereiro: 15.670+18.905=34.575. A produção total da empresa nesses dois meses foi de 34.575 peças."
+ALUNO_7_45,Estudante 45,Q8,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_45,Estudante 45,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_45,Estudante 45,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_45,Estudante 45,Q11,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_45,Estudante 45,Q12,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_45,Estudante 45,Q13,"Para saber o total de frutas, somei a quantidade de cada tipo de fruta: 7+5+3=15. Há 15 frutas no total na fruteira."
+ALUNO_7_45,Estudante 45,Q14,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_45,Estudante 45,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_45,Estudante 45,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_45,Estudante 45,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_45,Estudante 45,Q18,"Eu somei, mas o resultado deu 123."
+ALUNO_7_45,Estudante 45,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_45,Estudante 45,Q20,"Em uma fazenda, há 120 galinhas e 85 patos. Quantas aves há ao todo na fazenda?"
+ALUNO_7_46,Estudante 46,Q1,"Para saber o total, eu somei os livros dos dois dias: 273+319=592. A biblioteca recebeu um total de 592 livros."
+ALUNO_7_46,Estudante 46,Q2,Achei que era um problema de divisão.
+ALUNO_7_46,Estudante 46,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_46,Estudante 46,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_46,Estudante 46,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_46,Estudante 46,Q6,"Para encontrar a distância total percorrida, somei a distância de cada dia: 7.500 metros+6.800 metros=14.300 metros. O atleta percorreu 14.300 metros no total."
+ALUNO_7_46,Estudante 46,Q7,"Eu somei, mas o resultado deu 123."
+ALUNO_7_46,Estudante 46,Q8,Achei que era um problema de divisão.
+ALUNO_7_46,Estudante 46,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_46,Estudante 46,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_46,Estudante 46,Q11,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_46,Estudante 46,Q12,Achei que era um problema de divisão.
+ALUNO_7_46,Estudante 46,Q13,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_46,Estudante 46,Q14,"Para saber com quantos peixes Ana ficou, somei os peixes que ela já tinha com os que comprou: 18+7=25. Ana ficou com 25 peixes."
+ALUNO_7_46,Estudante 46,Q15,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_46,Estudante 46,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_46,Estudante 46,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_46,Estudante 46,Q18,Achei que era um problema de divisão.
+ALUNO_7_46,Estudante 46,Q19,Não respondeu.
+ALUNO_7_46,Estudante 46,Q20,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_47,Estudante 47,Q1,Não respondeu.
+ALUNO_7_47,Estudante 47,Q2,"Eu somei, mas o resultado deu 123."
+ALUNO_7_47,Estudante 47,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_47,Estudante 47,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_47,Estudante 47,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_47,Estudante 47,Q6,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_47,Estudante 47,Q7,"Para calcular a produção total, somei as peças produzidas em janeiro e fevereiro: 15.670+18.905=34.575. A produção total da empresa nesses dois meses foi de 34.575 peças."
+ALUNO_7_47,Estudante 47,Q8,"Para saber o total de material reciclável recolhido, somei as quantidades de cada material: 2.100 kg+1.550 kg+890 kg=4.540 kg. Foram recolhidos 4.540 kg de material reciclável no total."
+ALUNO_7_47,Estudante 47,Q9,"Eu somei, mas o resultado deu 123."
+ALUNO_7_47,Estudante 47,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_47,Estudante 47,Q11,"Eu somei, mas o resultado deu 123."
+ALUNO_7_47,Estudante 47,Q12,"Eu somei, mas o resultado deu 123."
+ALUNO_7_47,Estudante 47,Q13,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_47,Estudante 47,Q14,"Para saber com quantos peixes Ana ficou, somei os peixes que ela já tinha com os que comprou: 18+7=25. Ana ficou com 25 peixes."
+ALUNO_7_47,Estudante 47,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_47,Estudante 47,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_47,Estudante 47,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_47,Estudante 47,Q18,"Em um estacionamento, há 15 carros brancos, 10 carros pretos e 5 carros vermelhos. Quantos carros há no total?"
+ALUNO_7_47,Estudante 47,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_47,Estudante 47,Q20,"Em uma fazenda, há 120 galinhas e 85 patos. Quantas aves há ao todo na fazenda?"
+ALUNO_7_48,Estudante 48,Q1,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_48,Estudante 48,Q2,"Para encontrar o total arrecadado, somei as doações dos dois bairros: 875 kg+1.120 kg=1.995 kg. Foram arrecadados 1.995 kg de alimentos."
+ALUNO_7_48,Estudante 48,Q3,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_48,Estudante 48,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_48,Estudante 48,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_48,Estudante 48,Q6,Achei que era um problema de divisão.
+ALUNO_7_48,Estudante 48,Q7,Não respondeu.
+ALUNO_7_48,Estudante 48,Q8,"Para saber o total de material reciclável recolhido, somei as quantidades de cada material: 2.100 kg+1.550 kg+890 kg=4.540 kg. Foram recolhidos 4.540 kg de material reciclável no total."
+ALUNO_7_48,Estudante 48,Q9,"Eu somei, mas o resultado deu 123."
+ALUNO_7_48,Estudante 48,Q10,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_48,Estudante 48,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_48,Estudante 48,Q12,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_48,Estudante 48,Q13,"Para saber o total de frutas, somei a quantidade de cada tipo de fruta: 7+5+3=15. Há 15 frutas no total na fruteira."
+ALUNO_7_48,Estudante 48,Q14,"Não entendi a pergunta, achei que era para subtrair."
+ALUNO_7_48,Estudante 48,Q15,Achei que era um problema de divisão.
+ALUNO_7_48,Estudante 48,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_48,Estudante 48,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_48,Estudante 48,Q18,"Em um estacionamento, há 15 carros brancos, 10 carros pretos e 5 carros vermelhos. Quantos carros há no total?"
+ALUNO_7_48,Estudante 48,Q19,Não respondeu.
+ALUNO_7_48,Estudante 48,Q20,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_49,Estudante 49,Q1,"Para saber o total, eu somei os livros dos dois dias: 273+319=592. A biblioteca recebeu um total de 592 livros."
+ALUNO_7_49,Estudante 49,Q2,"Para encontrar o total arrecadado, somei as doações dos dois bairros: 875 kg+1.120 kg=1.995 kg. Foram arrecadados 1.995 kg de alimentos."
+ALUNO_7_49,Estudante 49,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_49,Estudante 49,Q4,"Eu somei, mas o resultado deu 123."
+ALUNO_7_49,Estudante 49,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_49,Estudante 49,Q6,"Para encontrar a distância total percorrida, somei a distância de cada dia: 7.500 metros+6.800 metros=14.300 metros. O atleta percorreu 14.300 metros no total."
+ALUNO_7_49,Estudante 49,Q7,"Para calcular a produção total, somei as peças produzidas em janeiro e fevereiro: 15.670+18.905=34.575. A produção total da empresa nesses dois meses foi de 34.575 peças."
+ALUNO_7_49,Estudante 49,Q8,"Para saber o total de material reciclável recolhido, somei as quantidades de cada material: 2.100 kg+1.550 kg+890 kg=4.540 kg. Foram recolhidos 4.540 kg de material reciclável no total."
+ALUNO_7_49,Estudante 49,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_49,Estudante 49,Q10,"Para saber o total de crianças, somei o número de meninos e meninas: 15+13=28. Há 28 crianças ao todo nessa classe."
+ALUNO_7_49,Estudante 49,Q11,"Para calcular o total de alunos que estudam na escola, somei os alunos do turno matutino e vespertino: 1.407+1.825=3.232. Estudam 3.232 alunos nessa escola."
+ALUNO_7_49,Estudante 49,Q12,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_49,Estudante 49,Q13,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_49,Estudante 49,Q14,"Para saber com quantos peixes Ana ficou, somei os peixes que ela já tinha com os que comprou: 18+7=25. Ana ficou com 25 peixes."
+ALUNO_7_49,Estudante 49,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_49,Estudante 49,Q16,"Eu somei, mas o resultado deu 123."
+ALUNO_7_49,Estudante 49,Q17,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_49,Estudante 49,Q18,Achei que era um problema de divisão.
+ALUNO_7_49,Estudante 49,Q19,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_49,Estudante 49,Q20,"Eu somei, mas o resultado deu 123."
+ALUNO_7_50,Estudante 50,Q1,"Para saber o total, eu somei os livros dos dois dias: 273+319=592. A biblioteca recebeu um total de 592 livros."
+ALUNO_7_50,Estudante 50,Q2,"Eu somei, mas o resultado deu 123."
+ALUNO_7_50,Estudante 50,Q3,"Para saber o total de pés de milho plantados, somei os pés de milho de cada safra: 5.300+6.150=11.450. Ele plantou 11.450 pés de milho no total nas duas safras."
+ALUNO_7_50,Estudante 50,Q4,"Para calcular o total de filhotes nascidos, somei o número de filhotes de cada espécie: 43+15+28=86. Nasceram 86 filhotes no total no zoológico."
+ALUNO_7_50,Estudante 50,Q5,"Para obter o número total de ingressos, somei os ingressos vendidos online e na bilheteria: 2.345+1.987=4.332. O número total de ingressos vendidos foi 4.332."
+ALUNO_7_50,Estudante 50,Q6,"Para encontrar a distância total percorrida, somei a distância de cada dia: 7.500 metros+6.800 metros=14.300 metros. O atleta percorreu 14.300 metros no total."
+ALUNO_7_50,Estudante 50,Q7,"Eu somei, mas o resultado deu 123."
+ALUNO_7_50,Estudante 50,Q8,"Para saber o total de material reciclável recolhido, somei as quantidades de cada material: 2.100 kg+1.550 kg+890 kg=4.540 kg. Foram recolhidos 4.540 kg de material reciclável no total."
+ALUNO_7_50,Estudante 50,Q9,"Para encontrar o total de celulares vendidos, somei as vendas de cada semana: 54+78+92=224. A loja vendeu 224 celulares no total nessas três semanas."
+ALUNO_7_50,Estudante 50,Q10,Achei que era um problema de divisão.
+ALUNO_7_50,Estudante 50,Q11,Achei que era um problema de divisão.
+ALUNO_7_50,Estudante 50,Q12,"Eu somei, mas o resultado deu 123."
+ALUNO_7_50,Estudante 50,Q13,"Para saber o total de frutas, somei a quantidade de cada tipo de fruta: 7+5+3=15. Há 15 frutas no total na fruteira."
+ALUNO_7_50,Estudante 50,Q14,O cálculo que fiz foi 456 + 1000 = 1450.
+ALUNO_7_50,Estudante 50,Q15,"Para calcular o total de passageiros, somei os passageiros iniciais com os que subiram na parada: 35+12=47. O ônibus tem 47 passageiros agora."
+ALUNO_7_50,Estudante 50,Q16,"Para saber quanto dinheiro Marta tem, somei o valor que ela já possuía com o que seu pai lhe deu: R$ 45,00+R$20,00=R$65,00. Marta tem R$ 65,00."
+ALUNO_7_50,Estudante 50,Q17,"Para saber o total de livros infantis, somei os livros que a biblioteca já tinha com os que foram adquiridos: 320+85=405. A biblioteca possui 405 livros infantis agora."
+ALUNO_7_50,Estudante 50,Q18,"Em um estacionamento, há 15 carros brancos, 10 carros pretos e 5 carros vermelhos. Quantos carros há no total?"
+ALUNO_7_50,Estudante 50,Q19,Uma equipe de basquete marcou 28 pontos no primeiro quarto e 35 pontos no segundo quarto. Quantos pontos a equipe marcou juntos nesses dois quartos?
+ALUNO_7_50,Estudante 50,Q20,"Em uma fazenda, há 120 galinhas e 85 patos. Quantas aves há ao todo na fazenda?"
