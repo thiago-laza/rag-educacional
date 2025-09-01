@@ -83,6 +83,35 @@ LISTA_PROBLEMAS = {
     }
 }
 
+# --- Estrutura de Erros para Simulação Detalhada ---
+TIPOS_E_SUBTIPOS_ERROS = {
+    "Erro de Interpretação": [
+        "Compreensão Incompleta do Enunciado",
+        "Identificação Incorreta dos Dados",
+        "Falha na Tradução da Linguagem Verbal",
+        "Confusão com o Objetivo",
+        "Dificuldade com Problemas Multi-etapas"
+    ],
+    "Erro Relacional": [
+        "Escolha de Operação Inadequada",
+        "Inversão de Operações",
+        "Aplicação de Operação Única",
+        "Dificuldade em Identificar Relação Causa-Efeito"
+    ],
+    "Erro Numérico": [
+        "Deslizes no Procedimento Padrão",
+        "Inversão de Dígitos ou Transposição",
+        "Erros na Tabuada/Fatos Básicos",
+        "Problemas com Posicionamento de Valores"
+    ],
+    "Erro de Cálculo": [
+        "Incapacidade de Realizar o Algoritmo",
+        "Erros em Operações com Números Racionais/Decimais",
+        "Dificuldade com Operações Complexas",
+        "Confusão com a Ordem das Operações"
+    ]
+}
+
 # --- Lógica de Simulação e Classificação ---
 def simular_resposta_aluno(nome_estudante: str, lista_id: str, questao_id: str) -> dict:
     """
@@ -90,13 +119,15 @@ def simular_resposta_aluno(nome_estudante: str, lista_id: str, questao_id: str) 
     especial para a Ana Clara na primeira questão de todas as listas.
     """
     classificacao = ""
+    tipo_erro = ""
     subtipo_erro = ""
     justificativa = ""
 
     # Lógica Específica para Ana Clara na Questão 1 de cada lista
     if nome_estudante == "Ana Clara Santos" and questao_id == "Q1":
         classificacao = "Incorreto"
-        subtipo_erro = "Erro de Interpretação"
+        tipo_erro = "Erro de Interpretação"
+        subtipo_erro = "Compreensão Incompleta do Enunciado"
         justificativa = "O estudante cometeu um Erro de Interpretação, não conseguindo associar as palavras-chave 'total' e 'recebeu' com a operação de soma, optando por subtrair os valores."
     else:
         tipo_resposta = random.choices(
@@ -106,23 +137,23 @@ def simular_resposta_aluno(nome_estudante: str, lista_id: str, questao_id: str) 
         
         if tipo_resposta == 'correta':
             classificacao = "Correto"
-            subtipo_erro = ""
             justificativa = "O estudante demonstrou total compreensão e precisão na resolução do problema."
         elif tipo_resposta == 'parcialmente_correta':
             classificacao = "Parcialmente Correto"
-            subtipo_erro = "Erro Numérico"
-            justificativa = "O estudante identificou a operação correta, mas cometeu um Erro Numérico no cálculo."
+            tipo_erro = "Erro Numérico"
+            subtipo_erro = random.choice(TIPOS_E_SUBTIPOS_ERROS[tipo_erro])
+            justificativa = f"O estudante identificou a operação correta, mas cometeu um Erro Numérico: {subtipo_erro}."
         elif tipo_resposta == 'incorreta':
-            erro_subtipos = ['Erro de Interpretação', 'Erro Relacional', 'Não Respondeu']
-            subtipo_erro = random.choice(erro_subtipos)
+            tipos_erros_incorreto = [t for t in TIPOS_E_SUBTIPOS_ERROS.keys() if t != "Erro Numérico"] + ["Não Respondeu"]
+            tipo_erro = random.choice(tipos_erros_incorreto)
             
             classificacao = "Incorreto"
-            if subtipo_erro == 'Erro de Interpretação':
-                justificativa = "O estudante cometeu um Erro de Interpretação, falhando em compreender o enunciado."
-            elif subtipo_erro == 'Erro Relacional':
-                justificativa = "O estudante cometeu um Erro Relacional, escolhendo a operação inadequada."
-            else:
+            if tipo_erro == "Não Respondeu":
+                subtipo_erro = "Não Respondeu"
                 justificativa = "O estudante não conseguiu iniciar a resolução ou não apresentou resposta."
+            else:
+                subtipo_erro = random.choice(TIPOS_E_SUBTIPOS_ERROS[tipo_erro])
+                justificativa = f"O estudante cometeu um {tipo_erro}: {subtipo_erro}."
 
     enunciado = LISTA_PROBLEMAS[lista_id][questao_id]['enunciado']
     
@@ -132,6 +163,7 @@ def simular_resposta_aluno(nome_estudante: str, lista_id: str, questao_id: str) 
         'questao': questao_id,
         'enunciado': enunciado,
         'classificacao': classificacao,
+        'tipo_erro': tipo_erro,
         'subtipo_erro': subtipo_erro,
         'justificativa': justificativa
     }
@@ -149,6 +181,8 @@ def salvar_resultados_md(resultados: list, output_path: str):
             f.write(f"**Lista:** {resultado['lista'].capitalize()} | **Questão:** {resultado['questao']}\n\n")
             f.write(f"**Enunciado:** {resultado['enunciado']}\n\n")
             f.write(f"**Classificação:** **{resultado['classificacao']}**\n\n")
+            if resultado['tipo_erro']:
+                f.write(f"**Tipo de Erro:** {resultado['tipo_erro']}\n\n")
             if resultado['subtipo_erro']:
                 f.write(f"**Subtipo de Erro:** {resultado['subtipo_erro']}\n\n")
             f.write(f"**Justificativa:** {resultado['justificativa']}\n\n")
@@ -156,7 +190,7 @@ def salvar_resultados_md(resultados: list, output_path: str):
 def salvar_resultados_csv(resultados: list, output_path: str):
     """Salva os resultados da simulação em um único arquivo CSV consolidado."""
     df = pd.DataFrame(resultados)
-    df = df[['nome_estudante', 'lista', 'questao', 'enunciado', 'classificacao', 'subtipo_erro', 'justificativa']]
+    df = df[['nome_estudante', 'lista', 'questao', 'enunciado', 'classificacao', 'tipo_erro', 'subtipo_erro', 'justificativa']]
     df.to_csv(output_path, index=False, encoding='utf-8')
     print(f"Arquivo CSV '{output_path}' gerado com sucesso.")
 
